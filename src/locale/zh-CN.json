@@ -96,7 +96,7 @@
     "invalid_configuration_data": "无效的配置数据",
     "config_updated_successfully": "配置更新成功！",
     "starting_web_ui": "正在启动 WebUI，端口: {port} || 文档端口: {docs_port}",
-    "web_ui_titel": "NeoAI",
+    "web_ui_title": "NeoAI",
     "menu_chat": "💬聊天💬",
     "menu_config": "⚙️设置⚙️",
     "menu_help": "📜帮助📜",
