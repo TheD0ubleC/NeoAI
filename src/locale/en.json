@@ -96,7 +96,7 @@
     "invalid_configuration_data": "Invalid configuration data",
     "config_updated_successfully": "Configuration updated successfully!",
     "starting_web_ui": "Starting WebUI on port: {port} || Docs port: {docs_port}",
-    "web_ui_titel": "NeoAI",
+    "web_ui_title": "NeoAI",
     "menu_chat": "💬Chat💬",
     "menu_config": "⚙️Settings⚙️",
     "menu_help": "📜Help📜",

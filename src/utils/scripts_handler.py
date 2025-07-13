@@ -135,11 +135,10 @@ def execute_in_subprocess(code, config, output_handler):
 
 def cleanup_temp_dir():
     """
-    清理脚本运行目录下的 temp_scripts 文件夹
+    清理主程序运行目录下的 temp_scripts 文件夹
     """
-    # 获取脚本运行目录
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    temp_dir = os.path.join(script_dir, "temp_scripts")
+    main_dir = get_main_directory()
+    temp_dir = os.path.join(main_dir, "temp_scripts")
 
     # 检查文件夹是否存在
     if os.path.exists(temp_dir):

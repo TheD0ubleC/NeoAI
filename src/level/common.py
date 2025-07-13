@@ -81,7 +81,7 @@ def extract_code(ai_response):
 
 def extract_callback(ai_response):
     """
-    提取 AI 响应中的代码块。
+    提取 AI 响应中的回调块。
     """
     import re
 

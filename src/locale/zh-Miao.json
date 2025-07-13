@@ -96,7 +96,7 @@
     "invalid_configuration_data": "哎呀，配置好像不对喵！",
     "config_updated_successfully": "配置已成功更新，喵！",
     "starting_web_ui": "喵~ 正在启动 WebUI，端口是：{port} || 文档端口是：{docs_port}",
-    "web_ui_titel": "NekoAI",
+    "web_ui_title": "NekoAI",
     "menu_chat": "💬来聊天吧喵💬",
     "menu_config": "⚙️喵喵设置⚙️",
     "menu_help": "📜喵喵帮助~📜",

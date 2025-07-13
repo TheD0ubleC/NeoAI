@@ -96,7 +96,7 @@
     "invalid_configuration_data": "無効な設定データです",
     "config_updated_successfully": "設定が正常に更新されました！",
     "starting_web_ui": "WebUIを起動します。ポート: {port} || Docsポート: {docs_port}",
-    "web_ui_titel": "NeoAI",
+    "web_ui_title": "NeoAI",
     "menu_chat": "💬チャット💬",
     "menu_config": "⚙️設定⚙️",
     "menu_help": "📜ヘルプ📜",
